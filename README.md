@@ -1,4 +1,4 @@
 # Login_Project
 This is my first Login application using angular , ASP .net core API and microsoft SQL server.
 <br>
-Author: Sonu Pandey
+Author: Sonu Kumar Pandey
